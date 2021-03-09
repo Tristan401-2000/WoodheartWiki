@@ -2,7 +2,7 @@
 id: bc6cefeb-854a-47b8-8aed-f4c76c91f638
 title: Development Guide
 desc: 'Guide for new Woodheart developers'
-updated: 1615270705842
+updated: 1615312086250
 created: 1615252255950
 ---
 
