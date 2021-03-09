@@ -2,7 +2,8 @@ version: 1
 vaults:
     -
         fsPath: vault
-useFMTitle: true
+useFMTitle: false
+useNoteTitleForLink: true
 site:
     copyAssets: true
     siteHierarchies:
